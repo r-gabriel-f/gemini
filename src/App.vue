@@ -15,7 +15,7 @@
           v-model="prompt"
           rows="5"
           cols="30"
-          placeholder="Escribe tu pregunta..."
+          placeholder="Write your question here"
         />
         <Button
           label="Generate"
